@@ -1,0 +1,118 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+   
+    background-color: #383738;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#Skills{
+    font-size: 18px;
+    padding: 2px;
+    margin: 5px 0 5px;
+    color: white;
+    
+    
+    
+}
+#Button{
+    cursor: pointer;
+    font-size: 18px;
+    padding: 2px;
+    margin: 5px 0 5px;
+    color: white;
+    border-radius: 5px;
+    border: 5px solid rgb(47, 7, 138);
+    background-color: black;
+}
+
+
+
+.Container{
+    display: flex;
+    background-color: white;
+    width: 100%;
+    /* height: 100vh; */
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.li{
+    color: white;
+     text-align: left;
+    font-size: 20px;
+    text-align: justify;
+} 
+
+
+
+.h1{
+font-size: 40px;
+margin: 10px 0 ;
+margin-bottom: 30px;
+text-align: center;
+color: rgb(6, 6, 139);
+
+
+}
+
+.h4{
+    font-size: 18px;
+    padding: 2px;
+    margin: 5px 0 5px;
+    color: white;
+    border-radius: 5px;
+    border: 5px solid rgb(47, 7, 138);
+    background-color: black;
+}
+
+.Profile{
+    width: 240px;
+    height: 240px;
+    margin-bottom: 20px;
+    border-radius: 100px;
+    border: 5px;
+    margin-top: 0%;
+    border-color: 5px solid rgb(255, 0, 179);
+}
+
+
+.left{
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+     border: 5px solid darkblue;
+}
+
+
+.right{
+    padding: 20PX;
+    width: 65%;
+    background-color: rgb(48, 40, 216)
+}
+
+.decri{
+    display: inline;
+    color: white;
+    position: absolute;
+    width: 35%;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 22px;
+}
+
+.Experience{
+    display: inline;
+    position: absolute;
+    width: 35%;
+    padding: 10px;
+}
+
+
